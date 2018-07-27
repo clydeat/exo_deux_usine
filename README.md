@@ -1,24 +1,17 @@
-# README
+Usine
+Salut moussaillon tu vas bien?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Dans ce README il y a un exo d'une usine.
 
-Things you may want to cover:
+Lancer l'appli
+Télécharge ou clone le repo
 
-* Ruby version
+Place toi dans le dossier correspondant et lance un bundle install
++ un rails db:migrate db:seed
++ rails c pour tout tester
 
-* System dependencies
+Les usines sont à la mode en ce moment, nous allons créer un site pour les usines. Nous allons créer un modèle assemblage, qui serait l'assemblage de plusieurs pièces. Une pièce peut appartenir à plusieurs assemblages.
 
-* Configuration
+Bon appétit!
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bon THP à toi moussaillon!
